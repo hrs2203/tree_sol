@@ -1,8 +1,6 @@
 """
 Assumptions Made
-
-1. Preprocessing done and converted the xlsx file to csv as it is easy or read and manipulate.
-2. ...
+Preprocessing done and converted the xlsx file to csv.
 """
 
 import pandas as pd
